@@ -1,0 +1,25 @@
+10 BONUSUP LDX #$03
+20       LDY #$00
+30       LDA PTURN
+40       BEQ BUPLOOP
+50       LDY #$01
+60 BUPLOOP LDA BONUS,Y
+70       AND #$0F
+80       CLC 
+90       ADC #$50
+0100     STA $0623,X
+0110     DEX 
+0120     LDA BONUS,Y
+0130     AND #$F0
+0140     LSR A
+0150     LSR A
+0160     LSR A
+0170     LSR A
+0180     CLC 
+0190     ADC #$50
+0200     STA $0623,X
+0210     INY 
+0220     INY 
+0230     DEX 
+0240     BPL BUPLOOP
+0250     RTS 
