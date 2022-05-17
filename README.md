@@ -6,9 +6,11 @@
 <div align = center>
 
 <br>
+<br>
 
 ![Badge Publisher][![Badge System]][System][![Badge Language]][Language][![Badge Assembler]][Assembler]
 
+<br>
 <br>
 
 ![Title]
@@ -26,8 +28,8 @@
     
 - [`.src`][Source]
 
-    Files exported by **[Kay Savetz]** for improved <br>
-    readability on modern computers.
+    Files exported by **[Kay Savetz]** for <br>
+    improved code readability.
 
 <br>
 
