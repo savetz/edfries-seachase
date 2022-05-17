@@ -1,5 +1,5 @@
 
-# Seachase    [![Badge Repository]](#) [![Badge Code]][MIT]
+# Seachase    [![Badge Repository]][Repository] [![Badge Code]][Code]
 
 *A **Atari 8-bit** Game By **[Ed Fries]**.*
 
@@ -39,15 +39,17 @@
 [Kay Savetz]: https://github.com/savetz
 [Ed Fries]: https://twitter.com/Ed_Fries
 
-[Assembler]: https://en.wikipedia.org/wiki/MAC/65
-[Language]: https://en.wikipedia.org/wiki/MOS_Technology_6502#Assembly_language
-[System]: https://en.wikipedia.org/wiki/Atari_8-bit_family
+[Publisher]: # 'The game was published by Romox'
+[Assembler]: https://en.wikipedia.org/wiki/MAC/65 'The code uses the MAC/65 assembler'
+[Language]: https://en.wikipedia.org/wiki/MOS_Technology_6502#Assembly_language 'The game was written in 6502 Assembly'
+[System]: https://en.wikipedia.org/wiki/Atari_8-bit_family 'The game was made for the Atari 8-bit system'
 
 [Original]: Source/seachase.xfd
 [Source]: Source/Readable
 
 [Title]: Resources/Title.jpg
-[MIT]: Source/LICENSE
+[Repository]: # 'The repository is licensed under'
+[Code]: Source/LICENSE 'Seachases code is licensed under the MIT license'
 
 
 <!---------------------------------{ Badges }---------------------------------->
