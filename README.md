@@ -8,15 +8,19 @@
 <br>
 <br>
 
-![Badge Publisher][![Badge System]][System][![Badge Language]][Language][![Badge Assembler]][Assembler]
-
-<br>
-<br>
-
 ![Title]
 
-</div>
+<br>
+<br>
 
+[![Badge Publisher]][Publisher]   
+[![Badge System]][System]   
+[![Badge Language]][Language]   
+[![Badge Assembler]][Assembler]
+
+</div>
+    
+<br>
 <br>
 
 ## Files
