@@ -57,8 +57,8 @@
 [Badge Repository]: https://img.shields.io/badge/Repository-Unknown-lightgray.svg?style=for-the-badge
 [Badge Code]: https://img.shields.io/badge/Code-MIT-yellow.svg?style=for-the-badge
 
-[Badge Publisher]: https://img.shields.io/badge/Publisher-Romox-a6a7d3.svg?style=for-the-badge
-[Badge Assembler]: https://img.shields.io/badge/Assembler-MAC/65-f2db62.svg?style=for-the-badge
-[Badge Language]: https://img.shields.io/badge/Language-6502_Assembly-2f2675.svg?style=for-the-badge
-[Badge System]: https://img.shields.io/badge/System-Atari_8--bit-E4202E.svg?style=for-the-badge
+[Badge Publisher]: https://img.shields.io/badge/Publisher-Romox-9091b7.svg?style=for-the-badge
+[Badge Assembler]: https://img.shields.io/badge/Assembler-MAC/65-ddba00.svg?style=for-the-badge
+[Badge Language]: https://img.shields.io/badge/Language-6502_Assembly-3e358b.svg?style=for-the-badge
+[Badge System]: https://img.shields.io/badge/System-Atari_8--bit-db2e3b.svg?style=for-the-badge
 
