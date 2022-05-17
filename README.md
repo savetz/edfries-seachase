@@ -1,5 +1,15 @@
-# edfries-seachase
-Sea Chase program by Ed Fries for Atari 8-bit computers
+
+# Seachase
+
+*A **Atari 8-bit** Game By **[Ed Fries]**.*
+
+<br>
+
+<div align = center>
+
+![Title]
+
+</div>
 
 Published by Romox for Atari 8-bit computers, by Ed Fries. Coded in 6502 assembly language with the Mac/65 assembler. 
 
@@ -7,4 +17,9 @@ The XFD file is the canonical source, in an Atari disk image format, from Ed. Th
 
 Ed has released this code under the MIT License. 
 
-![screenshot](seachase.jpg)
+
+
+<!----------------------------------------------------------------------------->
+
+[Ed Fries]: https://twitter.com/Ed_Fries
+[Title]: Resources/Title.jpg
