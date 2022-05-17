@@ -1,5 +1,5 @@
 
-# Seachase
+# Seachase    [![Badge Repository]](#) [![Badge Code]][MIT]
 
 *A **Atari 8-bit** Game By **[Ed Fries]**.*
 
@@ -23,3 +23,11 @@ Ed has released this code under the MIT License.
 
 [Ed Fries]: https://twitter.com/Ed_Fries
 [Title]: Resources/Title.jpg
+
+[MIT]: Source/LICENSE
+
+<!---------------------------------{ Badges }---------------------------------->
+
+[Badge Repository]: https://img.shields.io/badge/Repository-Unknown-lightgray.svg?style=for-the-badge
+
+[Badge Code]: https://img.shields.io/badge/Code-MIT-yellow.svg?style=for-the-badge
