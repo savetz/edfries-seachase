@@ -10,6 +10,8 @@
 [![Badge Language]][Language]   
 [![Badge Assembler]][Assembler]
 
+<br>
+<br>
 
 # Seachase
 
@@ -19,9 +21,6 @@
 <br>
 
 ![Title]
-
-<br>
-<br>
 
 </div>
     
